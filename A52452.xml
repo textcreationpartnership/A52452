@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of William North and Grace Featley on behalf of herself and the rest of the widows in Bromley Colledge in Kent, respondents, to the petition and appeal of Lee Warner, gent. appellant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52452</idno>
+            <idno type="STC">Wing N1290A</idno>
+            <idno type="STC">ESTC R41307</idno>
+            <idno type="EEBO-CITATION">31354895</idno>
+            <idno type="OCLC">ocm 31354895</idno>
+            <idno type="VID">110283</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110283)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of William North and Grace Featley on behalf of herself and the rest of the widows in Bromley Colledge in Kent, respondents, to the petition and appeal of Lee Warner, gent. appellant.</title>
+                  <author>North, William.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Contains marginal notes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>North, William.</term>
+               <term>Featley, Grace.</term>
+               <term>Warner, Lee.</term>
+               <term>Charitable uses, trusts, and foundations --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110283:1" rendition="simple:additions"/>
+            <p>
+               <hi>William North</hi> and <hi>Grace Featley,</hi> Reſpondents.</p>
+            <p>On the behalf of <hi>Bromley</hi> Colledge AGAINST <hi>Lee Warner</hi> Gent. Appellant.</p>
+            <p>To be Heard on <hi>Tueſday</hi> the 3d of <hi>March;</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb facs="tcp:110283:2"/>
+            <head>The <hi>CASE</hi> of WILLIAM NORTH and GRACE FEATLEY,<note place="margin">KENT.</note> On behalf of her ſelf and the reſt of the WIDOWS in <hi>Bromley</hi> Colledge in <hi>Kent,</hi> Reſpondents. To the Petition and Appeal of LEE WARNER Gent. Appellant.</head>
+            <p>DOCTOR <hi>WARNER,</hi>
+               <note place="margin">14 <hi>Septemb.</hi> 1666.</note> late Biſhop of <hi>Rocheſter</hi> by his Will then dated, Deviſed out of his Mannor of <hi>Swayton</hi> 450 <abbr>l.</abbr> 
+               <hi>per Annum</hi> for ever, to maintain 20 poor Widows of Orthodox and Loyal Clergy-men, and of a Chaplain to Miniſter to them in Holy things, in an <hi>Alms-Houſe,</hi> then to be Built by his Executors out of His Perſonal Eſtate. To which Chaplain he gave 50 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> and to each of the Widows 20 <hi>
+                  <abbr>l.</abbr> per Annum:</hi> The Election of which Widows and Chaplain, to be by his Executors for the time being; and after their deceaſe to ſuch Truſtees as they ſhould appoint.</p>
+            <p>The ſaid Mannor of <hi>Swayton</hi> was by the ſaid Will deviſed to the Appellant,<note place="margin">22 <hi>Car.</hi> 2.</note> charged with the payment of the ſaid 450 <abbr>
+                  <hi>l.</hi>
+               </abbr> for ever. By an Act of Parliament then made, for explaining and altering ſome Clauſes in the ſaid Will, there was 5 <hi>
+                  <abbr>l.</abbr> per Annum</hi> more for ever charged on the ſaid Mannor, to raiſe a Stock for Repair of the ſaid <hi>Alms-Houſe,</hi> and that no part of the 20 <hi>
+                  <abbr>l.</abbr> per Annum</hi> to the ſaid poor Widows ſhould be defaulked for that purpoſe; but no alteration to the Charity in queſtion thereby.</p>
+            <p>The ſaid <hi>Alms-Houſe</hi> was ſoon after built at <hi>Bromley</hi> in <hi>Kent,</hi> and called <hi>Bromley-Colledge,</hi> and 20 Widows placed therein above 20 years ſince, and ſo continued and ſupplied from time to time as there was a Vacancy. And the ſaid 20 <hi>
+                  <abbr>l.</abbr> per Annum</hi> apiece was Cuſtomarily paid to them Quarterly, according to an Order for that purpoſe ſet up in the Chapel of the ſaid Colledge by the Appellant.</p>
+            <p>The Reſpondent <hi>Featley</hi> was duly placed in as one of the Widows of the ſaid Colledge by Dr. <hi>Pierce,</hi> the ſurviving Executor of the Donor, and continued ſo quietly for ſome time; but her Penſion (with the reſt of the Widows) being much in Arrear, and thereby forced to run into Debt as far as her Credit would go, and being ready to ſtarve (as moſt of the Widows then were) their Credit being quite gone, ſhe was very preſſing upon her Knees to the Appellant, for her ſelf and the reſt of the Widows, to Conſider her (with the other Widows) lamentable Condition. Upon which this Reſpondent <hi>Featley</hi> was illegally and violently turned out by the Appellant, or his Order; and her Chamber broken open in her abſence, and her Goods thrown out,<note place="margin">
+                  <hi>May</hi> 1692.</note> ſpoilt and deſtroyed: There being about 60 <abbr>
+                  <hi>l.</hi>
+               </abbr> due to her for her Penſion in <hi>May</hi> then laſt paſt.</p>
+            <p>The Widows of the ſaid Colledge have a Right to two Acres of Ground adjoyning to the ſaid Colledge, of the value of 40 <hi>
+                  <abbr>s.</abbr> per Annum,</hi> which had been detained from them for one year then laſt paſt by the Appellant.</p>
+            <p>A Commiſſion of Charitable Uſes,<note place="margin">3 <hi>Nov.</hi> 1692.</note> grounded upon the Statute of the 43d of <hi>Eliz.</hi> was taken out, Directed to the Lord Biſhops of <hi>London, Rocheſter, Lincoln,</hi> and other Biſhops and Perſons of conſiderable Quality.</p>
+            <p>By Inquiſition taken before the ſaid Lord Biſhops,<note place="margin">28 <hi>Mar.</hi> 1693</note> and other Commiſſioners, upon the Oaths of about twenty Able perſons of the ſaid County, Retorned on a Jury by the Sheriff, to Enquire into the ſaid Charity; All the ſaid Matters above ſet forth were found to be ſo, upon a full Hearing of the Appellant and the ſaid Widows.</p>
+            <p>Upon Conſideration of the ſaid Jurors Inquiſition,<note place="margin">19 <hi>Jun</hi> 1693.</note> and that there had not been, nor then were any Truſtees duly Elected and Appointed, for the inſpecting and well governing of the ſaid Charity; and the Commiſſioners being ſatisfied there had been great Abuſes committed by the ſaid Appellant for want of Truſtees, he having for ſeveral years then laſt paſt taken upon him the ſole Government thereof, and finding a neceſſity for appointiug Truſtees for the Good Government thereof.</p>
+            <p>The ſaid Commiſſioners did Decree the Archbiſhop of <hi>Canterbury,</hi>
+               <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners Decree.</note> and Eleven other Perſons of great Worth and known Integrity, in the County to be Tuſtees, to Manage and Govern the ſaid Colledge and Charity for the future, and that the Payments be made the Widows Quarterly; and, this Reſpondent <hi>Featley</hi> to be paid the Arrears, and to be reſtored forthwith to her Apartment in the ſaid Colledge, and the other Widows to be paid their Arrears: And the ſaid two Acres of Ground to be diſpoſed of by the Truſtees for the Charity, and 40 <abbr>
+                  <hi>s.</hi>
+               </abbr> to be paid by the Appellant for one years Rent thereof; and the Iſſues and Profits thereof, for the future, to be received by the Truſtees, or their Receiver, for the uſe of the ſaid Widows.</p>
+            <p>To which Decree the Appellant Excepted,<note place="margin">Exceptions.</note> pretending this Charity was not within the Statute of <hi>Charitable Uſes,</hi> the Founder having directed who ſhould govern the ſame. That the Charity was not payable Quarterly; but Yearly. That no Orders were ſet up for a Quarterly pay<g ref="char:EOLhyphen"/>ment by him, that could oblige him. That he ought to pay the Charity to the Widows, and not to the Truſtees. And that he did not turn the Reſpondent <hi>Featley</hi> out; but Dr. <hi>Pierce</hi> did, who had placed another in her ſtead, and that Widow was duly paid. That he never received any of the Rent of the two Acres; but the Chaplain did, for the uſe of the Colledge. That the Appellant was conſtituted Truſtee for the Charity, and had not broke his Truſt; and yet is turned out, and others put in.</p>
+            <pb facs="tcp:110283:3"/>
+            <gap reason="duplicate" resp="#UOM" extent="2 paragraphs">
+               <desc>〈2 paragraphs duplicate〉</desc>
+            </gap>
+            <p>To which Exceptions,<note place="margin">Anſwer.</note> the ſaid <hi>North</hi> for the Charity Anſwered: That this Charity was within the Statute; for that by the Will and Act of Parliament the Executors of the Founder, and ſuch Truſtees as they ſhould appoint after them, are only Truſtees, and not Special Viſiters, within the Proviſo of the Statute; and by reaſon of the great Abuſes committed by the Appellant, the Commiſſioners were obliged to make ſuch Decree for the well government thereof. That the Will and intent of the Donor was, the Widows ſhould be paid to the beſt advantage of the Charity, and there being no Time or manner of Payment limited the Commiſſioners had power to Order it. That there were Orders ſet up in the Chapel of the ſaid Colledge by the Appellant, for the Quarterly Payment, and from time to time paid accordingly; and without ſuch Quarterly Pay<g ref="char:EOLhyphen"/>ment the Widows muſt live miſerably upon Truſt. That it is the practice of Commiſſions of this nature, when they change the Truſt, to Decree the Payment to the new Truſtees for the Poor, and their Acquittance is a good Diſcharge. That the Appellant did turn out the ſaid Widow <hi>Featley</hi> in a violent manner, ſix Months after Dr. <hi>Pierce</hi> his Death, and the Appellant did place another Widow in her ſtead; but did not Pay her, as pretended. That the Rent for the two Acres was received by the Chaplain; but diſpoſed of by the Appellants Order, which belonged to the Widows. That the Appellant was never duly conſtituted a Truſtee therefore, and for ſeveral grand Miſcarriages committed by him in the Truſt: And that the Charity was like to be deſtroyed, if he was continued; the Commiſſioners laid him aſide, and placed others therein.</p>
+            <p>That Depoſitions were taken on both Sides, and all the ſaid Matters proved on behalf of the Charity.</p>
+            <p>This Cauſe then coming to be heard before the Right Honourable the Lord Keeper of the Great Seal of <hi>England,</hi>
+               <note place="margin">24 <hi>Nov.</hi> 1693.</note> upon a full Hearing of Councel, and Reading the Proofs on both Sides, his Lordſhip confirmed the ſaid Commiſſioners Decree; which Decree of the ſaid Lord Keeper was Signed and Enrolled accordingly.</p>
+            <p>The Appellant appealed againſt the ſaid Decree to this Honourable Houſe the laſt Seſſions of Parliament, and the Reſpondent <hi>North</hi> put in his Anſwer thereto: But pending that Appeal the Appellant did prevail with ſome few of the Truſtees to have another Meeting. And in order there<g ref="char:EOLhyphen"/>unto the Appellant illegally procured another Commiſſion to iſſue; and thereupon the Appellant by his ſubtle Inſinuations perſuaded ſome few of the Commiſſioners, to comply with him to Sign a New Decree, differing from the former in many particulars: Whereby the former Decree, made by all the Commiſſioners, and (upon a full Hearing and due Proofs) Confirmed by the Lord Keeper, and Signed and Inrolled, was made null and void; and then the Appellant withdrew that Appeal. To which Second Decree the Widows did never conſent; but ſo ſoon as they underſtood the Matter, they preferred their Petition to the Lord Keeper againſt the ſaid Second Decree, and ſoon after put in Exceptions thereto; and amongſt other Matters inſiſted (as now they do) that the ſaid ſecond Decree of the Commiſſioners was Illegal and Unwarrantable. To which Exceptions the Appellant put in his Anſwer.</p>
+            <p>And the ſaid Cauſe come on again to be Heard,<note place="margin">A Second Hearing the <hi>28</hi> Oct. <hi>1695.</hi>
+               </note> upon the Exceptions to the ſaid Second Decree of the Commiſſioners; and upon full Hearing of Councel on both Sides, the Lord Keeper allowed the Exceptions, and Reverſed the ſaid Second Decree of the Commiſſioners as illegal and unwarrantable.</p>
+            <div type="appeal">
+               <head>
+                  <hi>Therefore the ſaid Mr.</hi> Warner <hi>hath brought this Appeal.</hi>
+               </head>
+               <p>
+                  <hi>But the Poor Widows hope Your LORDSHIPS will ſee no Cauſe to Reverſe, Change or Alter the ſaid Firſt Decree made by the Commiſſioners, or the Order made by the Lord Keeper, on the Arguing of the Exceptions thereto: And humbly pray your Lordſhips will not ſuffer them to be ſurprized by the ſaid Second Decree of the Commiſſioners; but will quiet them at laſt, after ſo long a Travel and great Expence, and utter Ruin, if</hi> Your Lordſhips <hi>ſhall not let the First Decree of the Commiſſioners ſtand; and by</hi> Your Lordſhips <hi>be Ratified and Confirmed, and be obſerved and performed, and the Reſpondents diſmiſſed with</hi> Coſts, <hi>for this unjust and unreaſonable Trouble and Vexation given them by the Appellant.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
